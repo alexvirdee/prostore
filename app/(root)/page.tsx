@@ -1,7 +1,7 @@
 
 
 const Home = () => {
-  return ( <>Home</> );
+  return ( <>Prostore</> );
 }
  
 export default Home;
