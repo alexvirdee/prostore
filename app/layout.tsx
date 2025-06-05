@@ -23,8 +23,8 @@ export default function RootLayout({
         className={`${inter.className} antialiased`}
       >
         <ThemeProvider
-         attribute='class'
-          defaultTheme='dark'
+          attribute='class'
+          defaultTheme='light'
           enableSystem
           disableTransitionOnChange
         >
