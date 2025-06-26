@@ -1,6 +1,7 @@
 
 
-const Home = () => {
+const Home =  () => {
+
   return ( <>Prostore</> );
 }
  
